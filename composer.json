@@ -1,0 +1,13 @@
+{
+    "name": "textko/php-sdk-sample",
+    "description": "A sample code for Textko PHP SDK.",
+    "require": {
+        "textko/php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Omar Usman",
+            "email": "omar@textko.com"
+        }
+    ]
+}
